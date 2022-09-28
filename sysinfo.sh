@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script Challenge
+#Script Challenges
 #The system’s fully-qualified domain name (FQDN)
 hostname -f
 #The operating system name and version
