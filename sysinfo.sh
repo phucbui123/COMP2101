@@ -1,7 +1,7 @@
 #!/bin/bash
 #Script Challenge
 #The system’s fully-qualified domain name (FQDN)
-hostname --fqdn
+hostname -f
 #The operating system name and version
 hostnamectl
 #Any IP addresses the machine has that are not on the 127 network
