@@ -23,4 +23,5 @@ echo IP Address: $Ip
 echo Root Filesystem Free Space\: $AvailSpace
 #Seperator line
 echo $SeperLine
-
+#Blank line
+echo
